@@ -34,7 +34,7 @@ _You **can** combine them_
    
 # Images
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://wall.alphacoders.com/big.php?i=1104505)
 Format: ![Alt Text](url)
 
 # Links
