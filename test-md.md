@@ -34,8 +34,8 @@ _You **can** combine them_
    
 # Images
 
-![GitHub Logo](https://wall.alphacoders.com/big.php?i=1104505)
-Format: ![Alt Text](url)
+
+![Image of Yaktocat](https://wall.alphacoders.com/big.php?i=1104505)
 
 # Links
 
