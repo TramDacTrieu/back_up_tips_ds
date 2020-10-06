@@ -3,6 +3,7 @@
 {.is-info}
 
 ## Version Control System – VCS là gì?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 VCS là viết tắt của Version Control System là hệ thống kiểm soát các phiên bản phân tán mã nguồn mở. Các VCS sẽ lưu trữ tất cả các file trong toàn bộ dự án và ghi lại toàn bộ lịch sử thay đổi của file. Mỗi sự thay đổi được lưu lại sẽ được và thành một version (phiên bản).
 
