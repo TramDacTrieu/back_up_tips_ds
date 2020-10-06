@@ -35,7 +35,7 @@ _You **can** combine them_
 # Images
 
 
-![Image of Yaktocat](https://wall.alphacoders.com/big.php?i=1104505)
+![Image of Yaktocat](https://images2.alphacoders.com/110/thumb-1920-1104505.jpg)
 
 # Links
 
