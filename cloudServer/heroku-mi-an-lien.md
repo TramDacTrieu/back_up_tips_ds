@@ -1,14 +1,12 @@
 <h1 style="text-align: center">Deploy</h1>
 
-> Heroku là gì?
-{.is-info}
+> **Heroku là gì?**
 
 1. Nó là nền tảng đám mây cho phép các lập trình viên xây dựng, triển khai, quản lý và mở rộng ứng dụng (PaaS – Platform as a service).
 
 2. Nó rất linh hoạt và dễ sử dụng, cung cấp cho một con đường đơn giản nhất để đưa sản phẩm tiếp cận người dùng. Nó giúp các nhà phát triển tập trung vào phát triển sản phẩm mà không cần quan tâm đến việc vận hành máy chủ hay phần cứng…
 
-> Điều kiện tiên quyết
-{.is-info}
+> **Điều kiện tiên quyết**
 
 1. Tạo tài khoản heroku (không cần thẻ visa or master card)
 
@@ -18,15 +16,13 @@
 
 4. Tải git về máy: https://git-scm.com/
 
-> Tạo Postgres DB
-{.is-info}
+> **Tạo Postgres DB**
 
 1. mở Heroku CLI lên
 
 2. Thêm add-on: heroku addons:create heroku-postgresql:hobby-dev
 
-> Connect DB Local
-{.is-info}
+> **Connect DB Local**
 
 <img src="https://drive.google.com/uc?export=view&id=125QXdBSTp9JVm9k6LfS6FkgI35a3YLFR"></img>
 
@@ -41,21 +37,14 @@
 </p>
 
 > Note: Heroku bắt buộc phải chọn SSL require
-{.is-warning}
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1rTWgvBJSm83u_TVLbF_BjwYgI9gx-2_C"></img>
-</p>
-
-> Note: Điền đúng tên Db đã tạo
-{.is-warning}
 
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1wiCoYWpAwfzJfngjGx0GShCZHP33qkEb"></img>
 </p>
 
-> Chỉnh sửa URL và thông tin trong Spring
-{.is-info}
+> **Chỉnh sửa URL và thông tin trong Spring**
 
 
 ---
@@ -68,8 +57,7 @@ spring.datasource.password=82cc6d3b82fcdd68c87378ae4b99262818be23c7103db79793850
 ---
 
 
-> Python Config
-{.is-info}
+> **Python Config**
 
 1. Cần có file requirements.txt để điều thông tin các plugin và framework cần thiết
 Ví dụ:
@@ -81,8 +69,7 @@ Ví dụ:
 
 ![i2.png](/deploy/i2.png)
 
-> Deploy
-{.is-info}
+> **Deploy**
 
 1. Ở giao diện app chọn tab deploy
 
