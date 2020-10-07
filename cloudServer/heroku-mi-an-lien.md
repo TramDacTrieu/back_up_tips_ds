@@ -24,7 +24,7 @@
 
 > **Connect DB Local**
 
-<img src="https://drive.google.com/uc?export=view&id=125QXdBSTp9JVm9k6LfS6FkgI35a3YLFR">
+<img src="https://drive.google.com/uc?export=view&id=125QXdBSTp9JVm9k6LfS6FkgI35a3YLFR"/>
 
 1. Lấy thông tin kết nối DB
 
@@ -33,7 +33,7 @@
 3. Start PgAdmin => tạo mới server => điền thông tin kết nối
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=10vWKgZd1gn-CQ-WMODpXhJD9mVnaYeL9">
+<img src="https://drive.google.com/uc?export=view&id=10vWKgZd1gn-CQ-WMODpXhJD9mVnaYeL9"/>
 </p>
 
 > Note: Heroku bắt buộc phải chọn SSL require
@@ -41,20 +41,17 @@
 <p align="center">
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1wiCoYWpAwfzJfngjGx0GShCZHP33qkEb">
+<img src="https://drive.google.com/uc?export=view&id=1wiCoYWpAwfzJfngjGx0GShCZHP33qkEb"/>
 </p>
 
 > **Chỉnh sửa URL và thông tin trong Spring**
 
 
----
 Đây là config trong application.properties
 
 > spring.datasource.url=jdbc:postgresql://ec2-3423826109.compute1.amazonaws.com:5432/dbutm1kdt39lna?currentSchema=public
 spring.datasource.username=hhqdpmluyeoixs
 spring.datasource.password=82cc6d3b82fcdd68c87378ae4b99262818be23c7103db79793850bffd43d8db1
-
----
 
 
 > **Python Config**
