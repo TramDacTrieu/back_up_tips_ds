@@ -24,7 +24,7 @@
 
 > **Connect DB Local**
 
-<img src="https://drive.google.com/uc?export=view&id=125QXdBSTp9JVm9k6LfS6FkgI35a3YLFR"></img>
+<img src="https://drive.google.com/uc?export=view&id=125QXdBSTp9JVm9k6LfS6FkgI35a3YLFR">
 
 1. Lấy thông tin kết nối DB
 
@@ -33,7 +33,7 @@
 3. Start PgAdmin => tạo mới server => điền thông tin kết nối
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=10vWKgZd1gn-CQ-WMODpXhJD9mVnaYeL9"></img>
+<img src="https://drive.google.com/uc?export=view&id=10vWKgZd1gn-CQ-WMODpXhJD9mVnaYeL9">
 </p>
 
 > Note: Heroku bắt buộc phải chọn SSL require
@@ -41,7 +41,7 @@
 <p align="center">
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1wiCoYWpAwfzJfngjGx0GShCZHP33qkEb"></img>
+<img src="https://drive.google.com/uc?export=view&id=1wiCoYWpAwfzJfngjGx0GShCZHP33qkEb">
 </p>
 
 > **Chỉnh sửa URL và thông tin trong Spring**
