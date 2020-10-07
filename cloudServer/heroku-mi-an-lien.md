@@ -62,22 +62,22 @@ spring.datasource.password=82cc6d3b82fcdd68c87378ae4b99262818be23c7103db79793850
 1. Cần có file requirements.txt để điều thông tin các plugin và framework cần thiết
 Ví dụ:
 
-![i1.png](/deploy/i1.png)
+![i1.png](../picture/i1.png)
 
 2. Cần có file runtime.txt chứa thông tin version Python
 Ví dụ:
 
-![i2.png](/deploy/i2.png)
+![i2.png](../picture/i2.png)
 
 > **Deploy**
 
 1. Ở giao diện app chọn tab deploy
 
-![i3.png](/deploy/i3.png)
+![i3.png](../picture/i3.png)
 
 2. Chọn github và connect tài khoản và repo
 
-![i4.png](/deploy/i4.png)
+![i4.png](../picture/i4.png)
 
 3. Click chọn Automatic Deploys (Để tự động build lại khi branch có thay đổi)
 
